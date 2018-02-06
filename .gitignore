@@ -1,0 +1,18 @@
+# PyCharm
+.idea
+# Vim
+*.swo
+*.swp
+tags
+
+# ST3
+*.sublime-project
+*.sublime-workspace
+
+.cache
+__pycache__
+*.pyc
+
+inputs/
+*.csv
+
